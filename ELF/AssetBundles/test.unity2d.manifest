@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 364171880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5b667da9e0737be7a0f08359a3f3ba1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3976a22b184e1551c1e7bb361a93ad37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/bullet.prefab
+- Assets/7d1c06b8-7c73-44b4-8c41-3246b3ce8427_image4.png
+Dependencies: []
